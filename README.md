@@ -1,1 +1,3 @@
-# Internship_Projrct_Big_Sales_Prediction
+👋 Hi, I’m @Debay111
+👀 I’m interested in... Ai,Ml
+🌱 I’m currently learning... python
